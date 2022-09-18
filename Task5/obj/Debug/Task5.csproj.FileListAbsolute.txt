@@ -1,0 +1,7 @@
+C:\rofl\LAB13\Task5\bin\Debug\Task5.exe
+C:\rofl\LAB13\Task5\bin\Debug\Task5.pdb
+C:\rofl\LAB13\Task5\obj\Debug\Task5.csproj.AssemblyReference.cache
+C:\rofl\LAB13\Task5\obj\Debug\Task5.csproj.SuggestedBindingRedirects.cache
+C:\rofl\LAB13\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\rofl\LAB13\Task5\obj\Debug\Task5.exe
+C:\rofl\LAB13\Task5\obj\Debug\Task5.pdb

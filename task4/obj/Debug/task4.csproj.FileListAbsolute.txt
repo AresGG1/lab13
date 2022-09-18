@@ -1,0 +1,7 @@
+C:\rofl\LAB13\task4\bin\Debug\task4.exe
+C:\rofl\LAB13\task4\bin\Debug\task4.pdb
+C:\rofl\LAB13\task4\obj\Debug\task4.csproj.AssemblyReference.cache
+C:\rofl\LAB13\task4\obj\Debug\task4.csproj.SuggestedBindingRedirects.cache
+C:\rofl\LAB13\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+C:\rofl\LAB13\task4\obj\Debug\task4.exe
+C:\rofl\LAB13\task4\obj\Debug\task4.pdb
