@@ -81,7 +81,7 @@ namespace LAB13
         }
         public static void Save(Timetable[] Train)
         {
-            StreamWriter writer = new StreamWriter("C:\\rofl\\LAB13\\LAB13\\task1.txt", false, Encoding.UTF8);
+            StreamWriter writer = new StreamWriter("..\\..\\task1.txt", false, Encoding.UTF8);
             foreach (var timetable in Train)
             {
                 writer.Write(timetable.ToString());
